@@ -15,7 +15,7 @@ function setup() {
 
 	//Create the Bodies Here.
 	roof = new Roof (425,300,250,20);
-	bobObject1 = new Bob (340,470,20)
+	bobObject1 = new bob (340,470,20)
 	bobObject2 = new Bob (380,470,20)
 	bobObject3 = new Bob (420,470,20)
 	bobObject4 = new Bob (460,470,20)
